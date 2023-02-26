@@ -26,7 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [QR Component](https://github.com/gianellin/qr-component)
+- Solution URL: [QR Component](https://www.frontendmentor.io/solutions/qr-component-using-reactbootstrap-MEGqxyZMC9)
+- Live Site URL: [Demo](https://frolicking-cannoli-eed48d.netlify.app/)
 
 
 ## My process

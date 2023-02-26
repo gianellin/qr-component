@@ -11,7 +11,7 @@ const Build = () => {
         <Card style={{  width: '20rem',
                         padding: '1.3vh',
                      }}
-        className="shadow p-3 bg-white rounded-4">
+        className="shadow p-3 bg-white rounded-4 ">
             <CardImage />
             <CardBody />
                 
