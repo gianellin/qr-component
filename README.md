@@ -64,5 +64,5 @@ I plan to keep working on Front-End projects and challenges, to hone up my skill
 
 - Website - [Gianella Cevallos](https://gianellin.github.io/portfolio_website/)
 - Frontend Mentor - [@gianellin](https://www.frontendmentor.io/profile/gianellin)
-- Instagram - [@giacodesnow](https://www.twitter.com/yourusername)
+- Instagram - [@giacodesnow](https://www.instagram.com/giacodesnow/)
 
